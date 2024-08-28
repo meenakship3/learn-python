@@ -11,3 +11,7 @@ The program is set to run for 5 minutes, during which the cookie is being clicke
 1. Clone this repository
 2. Naviagte to the project directory
 3. Run main.py (make sure you have Python and Chrome installed!)
+
+## 🎞️ screen recording
+https://github.com/user-attachments/assets/73840a97-903b-4269-80f2-e7e185cfbc20
+

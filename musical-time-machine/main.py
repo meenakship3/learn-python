@@ -64,7 +64,8 @@ def create_playlist():
     uri_list = []
 
     user_id = sp.current_user()["id"]
-
+    
+    print("Please wait, your tracks are being added.")
     for song in song_list:
         result = sp.search(q=f"track:{song}", type="track", limit=1, market="IN")
         try:
@@ -79,7 +80,7 @@ def create_playlist():
 
 
 # if not playlist_exists():
-    create_playlist()
+create_playlist()
 
 
 

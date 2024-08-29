@@ -9,7 +9,7 @@ Transport yourself back in time with this Spotify playlist. This project scrapes
 ## ⚙️ installation 
 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/musical-time-machine.git
+git clone https://github.com/YOUR-USERNAME/learn-python.git
 ```
 2. Navigate to the project directory
 ```bash

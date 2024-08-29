@@ -9,8 +9,18 @@ The program is set to run for 5 minutes, during which the cookie is being clicke
 
 ## ⚙️ installation
 1. Clone this repository
-2. Naviagte to the project directory
-3. Run main.py (make sure you have Python and Chrome installed!)
+```bash
+git clone https://github.com/YOUR-USERNAME/learn-python.git
+```
+2. Navigate to the project directory
+```bash
+cd cookie-clicker
+```
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+4. Run main.py
 
 ## 🎞️ screen recording
 https://github.com/user-attachments/assets/73840a97-903b-4269-80f2-e7e185cfbc20
